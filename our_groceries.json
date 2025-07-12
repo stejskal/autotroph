@@ -1,0 +1,4114 @@
+{
+  "recipes": [
+    {
+      "name": "Babaganoosh",
+      "items": [
+        {
+          "name": "Eggplant",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Lemon",
+          "category": "Produce"
+        },
+        {
+          "name": "Tahini",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Baked Chicken With Asparagus",
+      "items": [
+        {
+          "name": "Asparagus",
+          "category": "Produce"
+        },
+        {
+          "name": "Brown rice",
+          "category": "Middle"
+        },
+        {
+          "name": "Chicken breast",
+          "category": "Meat"
+        },
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Milk",
+          "category": "Dairy"
+        },
+        {
+          "name": "Parmesan cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Swiss cheese",
+          "category": "Cheese"
+        }
+      ]
+    },
+    {
+      "name": "Baked Potato Soup Slow Cooker",
+      "items": [
+        {
+          "name": "Bacon",
+          "category": "Meat"
+        },
+        {
+          "name": "Cheddar cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Green onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Heavy cream",
+          "category": "Dairy"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Russet potato",
+          "category": "Produce"
+        },
+        {
+          "name": "Sour cream",
+          "category": "Dairy"
+        }
+      ]
+    },
+    {
+      "name": "Bamboo Chicken",
+      "items": [
+        {
+          "name": "Bamboo Shoot",
+          "category": "Middle"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Chicken, Shredded",
+          "category": "Meat"
+        },
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Beef And Barley Soup",
+      "items": [
+        {
+          "name": "Barley",
+          "category": "Middle"
+        },
+        {
+          "name": "Beef stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Delmonico",
+          "category": "Meat"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Beef And Broccoli",
+      "items": [
+        {
+          "name": "Beef stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Broccoli",
+          "category": "Produce"
+        },
+        {
+          "name": "Brown sugar",
+          "category": "Middle"
+        },
+        {
+          "name": "Delmonico",
+          "category": "Meat"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Oyster sauce",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Beef Stew with Root Vegetables",
+      "items": [
+        {
+          "name": "Beef",
+          "category": "Meat"
+        },
+        {
+          "name": "Beef stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Parsnip",
+          "category": "Produce"
+        },
+        {
+          "name": "Turnip",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Beef Stroganoff Soup",
+      "items": [
+        {
+          "name": "Beef stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Egg noodle",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Soy sauce",
+          "category": "Middle"
+        },
+        {
+          "name": "Tomato paste",
+          "category": "Middle"
+        },
+        {
+          "name": "Top Sirloin",
+          "category": "Meat"
+        }
+      ]
+    },
+    {
+      "name": "biscuits",
+      "items": [
+        {
+          "name": "Butter",
+          "category": "Dairy"
+        },
+        {
+          "name": "Buttermilk",
+          "category": "Dairy"
+        },
+        {
+          "name": "Flour",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Black Bean Salad",
+      "items": [
+        {
+          "name": "Black Bean: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Cilantro",
+          "category": "Produce"
+        },
+        {
+          "name": "Corn: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Lime",
+          "category": "Produce"
+        },
+        {
+          "name": "Olive oil",
+          "category": "Middle"
+        },
+        {
+          "name": "Scallion",
+          "category": "Produce"
+        },
+        {
+          "name": "Tomato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Black Beans",
+      "items": [
+        {
+          "name": "Bell pepper, green",
+          "category": "Produce"
+        },
+        {
+          "name": "Dry Black Bean",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Breaded Chicken Parmesan",
+      "items": [
+        {
+          "name": "Basil",
+          "category": "Produce"
+        },
+        {
+          "name": "Bread Crumb",
+          "category": "Middle"
+        },
+        {
+          "name": "Chicken breast",
+          "category": "Meat"
+        },
+        {
+          "name": "Egg",
+          "category": "Dairy"
+        },
+        {
+          "name": "Marinara sauce",
+          "category": "Middle"
+        },
+        {
+          "name": "Mozzarella cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Parmesan cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Spaghetti",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Broccoli Baked Potatos",
+      "items": [
+        {
+          "name": "Broccoli",
+          "category": "Produce"
+        },
+        {
+          "name": "Cheddar cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Russet potato (2)",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Bulgogi Lettuce Wrap",
+      "items": [
+        {
+          "name": "Asian Pear",
+          "category": "Produce"
+        },
+        {
+          "name": "Delmonico",
+          "category": "Meat"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Lettuce",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "items": [
+        {
+          "name": "American cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Burger Bun",
+          "category": "Middle"
+        },
+        {
+          "name": "Ground beef",
+          "category": "Meat"
+        },
+        {
+          "name": "Jalapeño",
+          "category": "Produce"
+        },
+        {
+          "name": "Lettuce",
+          "category": "Produce"
+        },
+        {
+          "name": "Red onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Tomato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Burritos",
+      "items": [
+        {
+          "name": "Cheddar cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Ground beef",
+          "category": "Meat"
+        },
+        {
+          "name": "Lettuce",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Refried Bean",
+          "category": "Middle"
+        },
+        {
+          "name": "Tortilla",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Butter Chicken",
+      "items": [
+        {
+          "name": "Chicken Thigh",
+          "category": "Meat"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Greek yogurt",
+          "category": "Dairy"
+        },
+        {
+          "name": "Heavy cream",
+          "category": "Dairy"
+        },
+        {
+          "name": "Lemon",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Tomato paste",
+          "category": "Middle"
+        },
+        {
+          "name": "White rice",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Cabbage Rolls",
+      "items": [
+        {
+          "name": "Brown rice",
+          "category": "Middle"
+        },
+        {
+          "name": "Cabbage",
+          "category": "Produce"
+        },
+        {
+          "name": "Can Tomato Sauce",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ground pork",
+          "category": "Meat"
+        },
+        {
+          "name": "Lemon",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Cajun Rice Casserole",
+      "items": [
+        {
+          "name": "Bay leaf",
+          "category": "Middle"
+        },
+        {
+          "name": "Bell pepper, green",
+          "category": "Produce"
+        },
+        {
+          "name": "Brown rice",
+          "category": "Middle"
+        },
+        {
+          "name": "Cajun Sausage",
+          "category": "Meat"
+        },
+        {
+          "name": "Celery",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Campfire Toast",
+      "items": [
+        {
+          "name": "Avocado",
+          "category": "Produce"
+        },
+        {
+          "name": "Bread, Thick Cut",
+          "category": ""
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Portabello mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "White Bean",
+          "category": "Middle"
+        },
+        {
+          "name": "Zucchini",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "carbonara with asparagus and mushrooms",
+      "items": [
+        {
+          "name": "Asparagus",
+          "category": "Produce"
+        },
+        {
+          "name": "Bacon",
+          "category": "Meat"
+        },
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Egg",
+          "category": "Dairy"
+        },
+        {
+          "name": "Parmesan cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Spaghetti",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Caribbean Beef Stew",
+      "items": [
+        {
+          "name": "Beef Stew Meat",
+          "category": "Meat"
+        },
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Diced Green Chili: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Diced Tomato: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Russet potato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Cauliflower Asparagus Soup",
+      "items": [
+        {
+          "name": "Asparagus",
+          "category": "Produce"
+        },
+        {
+          "name": "Cauliflower",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Cauliflower Gratin",
+      "items": [
+        {
+          "name": "Cauliflower",
+          "category": "Produce"
+        },
+        {
+          "name": "Gruyere cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Leek",
+          "category": "Produce"
+        },
+        {
+          "name": "Milk",
+          "category": "Dairy"
+        }
+      ]
+    },
+    {
+      "name": "Cheesy Brussel Sprouts",
+      "items": [
+        {
+          "name": "Brussels sprout",
+          "category": "Produce"
+        },
+        {
+          "name": "Cheddar cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Gruyere cheese",
+          "category": "Cheese"
+        }
+      ]
+    },
+    {
+      "name": "Cheesy Chicken Broccoli Casserole",
+      "items": [
+        {
+          "name": "Broccoli",
+          "category": "Produce"
+        },
+        {
+          "name": "Brown rice",
+          "category": "Middle"
+        },
+        {
+          "name": "Cheddar cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Chicken, Shredded",
+          "category": "Meat"
+        }
+      ]
+    },
+    {
+      "name": "Cheesy Hamburger Buddy",
+      "items": [
+        {
+          "name": "Beef stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Cheddar cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Ground beef",
+          "category": "Meat"
+        },
+        {
+          "name": "Macaroni pasta",
+          "category": "Middle"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Chicken And Asparagus",
+      "items": [
+        {
+          "name": "Asparagus",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken breast",
+          "category": "Meat"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Honey",
+          "category": "Middle"
+        },
+        {
+          "name": "Lemon",
+          "category": "Produce"
+        },
+        {
+          "name": "Panko",
+          "category": "Middle"
+        },
+        {
+          "name": "Parmesan cheese",
+          "category": "Cheese"
+        }
+      ]
+    },
+    {
+      "name": "Chicken Broccoli Stromboli",
+      "items": [
+        {
+          "name": "Alfredo sauce",
+          "category": "Middle"
+        },
+        {
+          "name": "Broccoli",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken breast",
+          "category": "Meat"
+        },
+        {
+          "name": "Mozzarella cheese",
+          "category": "Cheese"
+        }
+      ]
+    },
+    {
+      "name": "Chicken Chili",
+      "items": [
+        {
+          "name": "Bean: Can (2)",
+          "category": "Middle"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Chicken, Shredded",
+          "category": "Meat"
+        },
+        {
+          "name": "Cilantro",
+          "category": "Produce"
+        },
+        {
+          "name": "Colby jack cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Corn: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Green Chili: Can (2)",
+          "category": "Middle"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Chicken Enchiladas",
+      "items": [
+        {
+          "name": "Cheddar cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Chicken, Shredded",
+          "category": "Meat"
+        },
+        {
+          "name": "Green Chili: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Refried Bean",
+          "category": "Middle"
+        },
+        {
+          "name": "Sour cream",
+          "category": "Dairy"
+        },
+        {
+          "name": "Tortilla",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Chicken Parmesan",
+      "items": [
+        {
+          "name": "Chicken breast",
+          "category": "Meat"
+        },
+        {
+          "name": "Marinara sauce",
+          "category": "Middle"
+        },
+        {
+          "name": "Mozzarella cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Parmesan cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Spaghetti",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Chicken Philly Calzone",
+      "items": [
+        {
+          "name": "Chicken breast",
+          "category": "Meat"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Jalapeño",
+          "category": "Produce"
+        },
+        {
+          "name": "Mozzarella cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Chicken Pot Pie Innards",
+      "items": [
+        {
+          "name": "Broccoli",
+          "category": "Produce"
+        },
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Chicken, Shredded",
+          "category": "Meat"
+        },
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Chicken Salad",
+      "items": [
+        {
+          "name": "Avocado",
+          "category": "Produce"
+        },
+        {
+          "name": "Bread",
+          "category": "Bakery"
+        },
+        {
+          "name": "Celery",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken, Shredded",
+          "category": "Meat"
+        },
+        {
+          "name": "Lettuce",
+          "category": "Produce"
+        },
+        {
+          "name": "Lime",
+          "category": "Produce"
+        },
+        {
+          "name": "Tomato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Chicken Tinga",
+      "items": [
+        {
+          "name": "Avocado (4)",
+          "category": "Produce"
+        },
+        {
+          "name": "Can Chipotle Chili",
+          "category": "Middle"
+        },
+        {
+          "name": "Can Tomato Sauce",
+          "category": "Middle"
+        },
+        {
+          "name": "Cheddar cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Chicken breast",
+          "category": "Meat"
+        },
+        {
+          "name": "Fresh Corn Tortilla",
+          "category": ""
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Iceberg Lettuce",
+          "category": "Produce"
+        },
+        {
+          "name": "Refried Bean",
+          "category": "Middle"
+        },
+        {
+          "name": "Tortilla Chip",
+          "category": "Middle"
+        },
+        {
+          "name": "Yellow onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Chicken Tortilla Soup",
+      "items": [
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Chicken Thigh",
+          "category": "Meat"
+        },
+        {
+          "name": "Cilantro",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Lime Juice",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Salsa",
+          "category": "Produce"
+        },
+        {
+          "name": "Taco Seasoning",
+          "category": "Middle"
+        },
+        {
+          "name": "Tortilla Chip",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Chile Verde",
+      "items": [
+        {
+          "name": "Bell pepper, green",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Pork, Chunk",
+          "category": "Meat"
+        },
+        {
+          "name": "Tomatillo",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Chili",
+      "items": [
+        {
+          "name": "Anahiem Pepper (2)",
+          "category": "Produce"
+        },
+        {
+          "name": "Beef stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Can Tomato Sauce",
+          "category": "Middle"
+        },
+        {
+          "name": "Delmonico",
+          "category": "Meat"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Kidney Bean: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Pinto Bean: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Yellow onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Chinese Hot Pot",
+      "items": [
+        {
+          "name": "Baby carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Dry Sherry",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Pork Butt",
+          "category": "Meat"
+        },
+        {
+          "name": "Scallion",
+          "category": "Produce"
+        },
+        {
+          "name": "Turnip",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Chinese Noodle Soup",
+      "items": [
+        {
+          "name": "Chinese Veg",
+          "category": "Produce"
+        },
+        {
+          "name": "Egg noodle",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Green onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Whole Chicken",
+          "category": "Meat"
+        }
+      ]
+    },
+    {
+      "name": "Chopped Chicken Salad",
+      "items": [
+        {
+          "name": "Anaheim Pepper",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken breast",
+          "category": "Meat"
+        },
+        {
+          "name": "Cilantro",
+          "category": "Produce"
+        },
+        {
+          "name": "Coleslaw Mix",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Green onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Lime",
+          "category": "Produce"
+        },
+        {
+          "name": "Ramen noodle",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Corn And Ham Chowder",
+      "items": [
+        {
+          "name": "Bacon",
+          "category": "Meat"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Corn: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Ham Steak",
+          "category": "Meat"
+        },
+        {
+          "name": "Milk",
+          "category": "Dairy"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Poblano Pepper",
+          "category": "Produce"
+        },
+        {
+          "name": "Russet potato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Creamy Chicken And Broccoli Pesto",
+      "items": [
+        {
+          "name": "Basil",
+          "category": "Produce"
+        },
+        {
+          "name": "Bowtie pasta",
+          "category": "Middle"
+        },
+        {
+          "name": "Broccoli",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken Thigh",
+          "category": "Meat"
+        },
+        {
+          "name": "Cream cheese",
+          "category": "Dairy"
+        },
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Olive oil",
+          "category": "Middle"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Parmesan cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Pistachio",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Creamy Chicken Noodle Soup",
+      "items": [
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Chicken, Shredded",
+          "category": "Meat"
+        },
+        {
+          "name": "Dill",
+          "category": "Produce"
+        },
+        {
+          "name": "Egg noodle",
+          "category": "Middle"
+        },
+        {
+          "name": "Milk",
+          "category": "Dairy"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Parsley",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Creamy Pork Chops",
+      "items": [
+        {
+          "name": "Butter",
+          "category": "Dairy"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Heavy cream",
+          "category": "Dairy"
+        },
+        {
+          "name": "Mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Parsley",
+          "category": "Produce"
+        },
+        {
+          "name": "Pork Chop",
+          "category": "Meat"
+        },
+        {
+          "name": "Thyme",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Creamy Pork Soup",
+      "items": [
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Cauliflower",
+          "category": "Produce"
+        },
+        {
+          "name": "Celery",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Milk",
+          "category": "Dairy"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Pork Chop",
+          "category": "Meat"
+        },
+        {
+          "name": "Russet potato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Eggrolls",
+      "items": [
+        {
+          "name": "Cabbage",
+          "category": "Produce"
+        },
+        {
+          "name": "Eggroll Wrapper",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic Chili Paste",
+          "category": "Middle"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Ground pork",
+          "category": "Meat"
+        },
+        {
+          "name": "Peanut oil",
+          "category": "Middle"
+        },
+        {
+          "name": "Soy sauce",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "enchilada casserole",
+      "items": [
+        {
+          "name": "Chicken, Shredded",
+          "category": "Meat"
+        },
+        {
+          "name": "Corn",
+          "category": "Middle"
+        },
+        {
+          "name": "Corn Tortilla",
+          "category": "Middle"
+        },
+        {
+          "name": "Dried Chili",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Pinto Bean: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Tomato sauce",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Fajita",
+      "items": [
+        {
+          "name": "Bell pepper, green",
+          "category": "Produce"
+        },
+        {
+          "name": "Flank Steak",
+          "category": "Meat"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Lime",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Serrano",
+          "category": "Produce"
+        },
+        {
+          "name": "Soy sauce",
+          "category": "Middle"
+        },
+        {
+          "name": "Tortilla",
+          "category": "Middle"
+        },
+        {
+          "name": "Zucchini",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Farfalle With Mushrooms And Spinach",
+      "items": [
+        {
+          "name": "Farfalle",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Mushroom Variety",
+          "category": "Produce"
+        },
+        {
+          "name": "Parmesan cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Spinach",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "General Tso's Chicken",
+      "items": [
+        {
+          "name": "Broccoli",
+          "category": "Produce"
+        },
+        {
+          "name": "Brown rice",
+          "category": "Middle"
+        },
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken breast",
+          "category": "Meat"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Cornstarch",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Hoisin",
+          "category": "Middle"
+        },
+        {
+          "name": "Lime Juice",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Ginger Beef",
+      "items": [
+        {
+          "name": "Baby Bok Choy",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Scallion",
+          "category": "Produce"
+        },
+        {
+          "name": "Thin Sliced Beef",
+          "category": "Meat"
+        }
+      ]
+    },
+    {
+      "name": "Greek Chicken Sandwich",
+      "items": [
+        {
+          "name": "Chicken breast",
+          "category": "Meat"
+        },
+        {
+          "name": "Cucumber",
+          "category": "Produce"
+        },
+        {
+          "name": "Feta",
+          "category": "Cheese"
+        },
+        {
+          "name": "Lemon",
+          "category": "Produce"
+        },
+        {
+          "name": "Lettuce",
+          "category": "Produce"
+        },
+        {
+          "name": "Pita",
+          "category": "Middle"
+        },
+        {
+          "name": "Red onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Tomato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Green Chile Sauce",
+      "items": [
+        {
+          "name": "Bell pepper, green",
+          "category": "Produce"
+        },
+        {
+          "name": "Cilantro",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Tomatillo",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Grilled Dough: Italian",
+      "items": [
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Crushed Tomato, Large Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Italian Sausage",
+          "category": "Meat"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Grilled Mushroom Sandwich",
+      "items": [
+        {
+          "name": "Havarti",
+          "category": "Cheese"
+        },
+        {
+          "name": "Portabello mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Small Potato Roll",
+          "category": "Bakery"
+        }
+      ]
+    },
+    {
+      "name": "Grilled Sweet Potato",
+      "items": [
+        {
+          "name": "Cilantro",
+          "category": "Produce"
+        },
+        {
+          "name": "Lime",
+          "category": "Produce"
+        },
+        {
+          "name": "Sweet potato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Gyro",
+      "items": [
+        {
+          "name": "Bacon",
+          "category": "Meat"
+        },
+        {
+          "name": "Cucumber",
+          "category": "Produce"
+        },
+        {
+          "name": "Dill",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Greek yogurt",
+          "category": "Dairy"
+        },
+        {
+          "name": "Ground lamb",
+          "category": "Meat"
+        },
+        {
+          "name": "Lemon",
+          "category": "Produce"
+        },
+        {
+          "name": "Pita Bread",
+          "category": "Middle"
+        },
+        {
+          "name": "Tomato",
+          "category": "Produce"
+        },
+        {
+          "name": "Yellow onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Ham And Bean Soup",
+      "items": [
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Mustard Green",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Smoked Ham Hock",
+          "category": "Meat"
+        },
+        {
+          "name": "White Bean",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Ham Potato And Green Bean Casserole",
+      "items": [
+        {
+          "name": "Colby jack cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Green Bean",
+          "category": "Produce"
+        },
+        {
+          "name": "Ham",
+          "category": "Meat"
+        },
+        {
+          "name": "Russet potato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Honey Ginger Pork",
+      "items": [
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Honey",
+          "category": "Middle"
+        },
+        {
+          "name": "Lime",
+          "category": "Produce"
+        },
+        {
+          "name": "Pork Loin",
+          "category": "Meat"
+        },
+        {
+          "name": "Soy sauce",
+          "category": "Middle"
+        },
+        {
+          "name": "Worcestershire sauce",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Hummus",
+      "items": [
+        {
+          "name": "Chickpea",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Tahini",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Italian Beef Sandwich",
+      "items": [
+        {
+          "name": "Beef Roast",
+          "category": "Meat"
+        },
+        {
+          "name": "Diced Tomato: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Italian Dressing Mix 2",
+          "category": "Middle"
+        },
+        {
+          "name": "Peppercini",
+          "category": "Middle"
+        },
+        {
+          "name": "Roll",
+          "category": "Bakery"
+        },
+        {
+          "name": "Yellow onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Jambalaya",
+      "items": [
+        {
+          "name": "Anaheim Pepper",
+          "category": "Produce"
+        },
+        {
+          "name": "Anduilli Sausage",
+          "category": "Meat"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Chicken, Shredded",
+          "category": "Meat"
+        },
+        {
+          "name": "Crushed Tomato, Large Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Okra",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "White rice",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Jerk Chicken",
+      "items": [
+        {
+          "name": "All Spice",
+          "category": "Middle"
+        },
+        {
+          "name": "Chicken Thigh",
+          "category": "Meat"
+        },
+        {
+          "name": "Fresh Thyme",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Green onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Habenero",
+          "category": ""
+        }
+      ]
+    },
+    {
+      "name": "Korean Bbq",
+      "items": [
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "English Cucumber",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Scallion",
+          "category": "Produce"
+        },
+        {
+          "name": "Sirloin Steak",
+          "category": "Meat"
+        },
+        {
+          "name": "White rice",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Korean Vegetable Pancakes",
+      "items": [
+        {
+          "name": "Bell pepper",
+          "category": "Produce"
+        },
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Egg",
+          "category": "Dairy"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Green onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Yellow Potato",
+          "category": "Produce"
+        },
+        {
+          "name": "Zucchini",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Krout Burger",
+      "items": [
+        {
+          "name": "Cabbage",
+          "category": "Produce"
+        },
+        {
+          "name": "Ground beef",
+          "category": "Meat"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Pepper jack cheese",
+          "category": "Deli"
+        },
+        {
+          "name": "Sour Krout",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Larb Nar",
+      "items": [
+        {
+          "name": "Brown sugar",
+          "category": "Middle"
+        },
+        {
+          "name": "Butter Lettuce",
+          "category": "Produce"
+        },
+        {
+          "name": "Cilantro",
+          "category": "Produce"
+        },
+        {
+          "name": "Dry Roasted Peanut",
+          "category": "Middle"
+        },
+        {
+          "name": "Fish sauce",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Ground pork",
+          "category": "Meat"
+        },
+        {
+          "name": "Lime",
+          "category": "Produce"
+        },
+        {
+          "name": "Red onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Scallion",
+          "category": "Produce"
+        },
+        {
+          "name": "Soy sauce",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Lasagna",
+      "items": [
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Lasagna Noodle",
+          "category": "Middle"
+        },
+        {
+          "name": "Mozzarella cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Parmesan cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Spinach",
+          "category": "Produce"
+        },
+        {
+          "name": "Sweet Italian Sausage",
+          "category": "Meat"
+        },
+        {
+          "name": "Whole Tomato Large Can San Marzano) Cento Brand",
+          "category": "Middle"
+        },
+        {
+          "name": "Yellow onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Lemon Butter Chicken Pasta",
+      "items": [
+        {
+          "name": "Chicken breast",
+          "category": "Meat"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Lemon",
+          "category": "Produce"
+        },
+        {
+          "name": "Red onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Spaghetti",
+          "category": "Middle"
+        },
+        {
+          "name": "Spinach",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Lemon Chicken Strips",
+      "items": [
+        {
+          "name": "Chicken Strip",
+          "category": "Meat"
+        },
+        {
+          "name": "Corn Flake",
+          "category": "Middle"
+        },
+        {
+          "name": "Lemon",
+          "category": "Produce"
+        },
+        {
+          "name": "Russet potato",
+          "category": "Produce"
+        },
+        {
+          "name": "Sweet potato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Lemony Chicken",
+      "items": [
+        {
+          "name": "Chicken breast",
+          "category": "Meat"
+        },
+        {
+          "name": "Lemon",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Loco Moco",
+      "items": [
+        {
+          "name": "Beef stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Brown rice",
+          "category": "Middle"
+        },
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Egg",
+          "category": "Dairy"
+        },
+        {
+          "name": "Ground beef",
+          "category": "Meat"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Tomato paste",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Lomo Saltado",
+      "items": [
+        {
+          "name": "Anaheim Pepper",
+          "category": "Produce"
+        },
+        {
+          "name": "Big Tomato (3)",
+          "category": "Produce"
+        },
+        {
+          "name": "Crinkle Cut Frozen Fry",
+          "category": "Frozen Food"
+        },
+        {
+          "name": "Delmonico",
+          "category": "Meat"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Red onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Mashed Cauliflower",
+      "items": [
+        {
+          "name": "Cauliflower",
+          "category": "Produce"
+        },
+        {
+          "name": "Cheddar cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Cream cheese",
+          "category": "Dairy"
+        }
+      ]
+    },
+    {
+      "name": "Meatball Sandwich",
+      "items": [
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Crushed Tomato, Small Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Egg",
+          "category": "Dairy"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ground beef",
+          "category": "Meat"
+        },
+        {
+          "name": "Hogie Roll",
+          "category": "Bakery"
+        },
+        {
+          "name": "Italian Sausage",
+          "category": "Meat"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Parmesan cheese",
+          "category": "Cheese"
+        }
+      ]
+    },
+    {
+      "name": "Meatloaf",
+      "items": [
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Egg",
+          "category": "Dairy"
+        },
+        {
+          "name": "Ground beef",
+          "category": "Meat"
+        },
+        {
+          "name": "Ground pork",
+          "category": "Meat"
+        },
+        {
+          "name": "Ketchup",
+          "category": "Middle"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Russet potato (5)",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Mexican Pizza",
+      "items": [
+        {
+          "name": "Cheddar cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Green Chili: Can (2)",
+          "category": "Middle"
+        },
+        {
+          "name": "Ground beef",
+          "category": "Meat"
+        },
+        {
+          "name": "Lettuce",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Refried Bean",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Mexican Shredded Beef",
+      "items": [
+        {
+          "name": "Beef For Shredding",
+          "category": "Meat"
+        },
+        {
+          "name": "Cilantro",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Pasilla Pepper",
+          "category": "Produce"
+        },
+        {
+          "name": "Stewed Tomato",
+          "category": "Middle"
+        },
+        {
+          "name": "Tortilla",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Mexican veggie soup",
+      "items": [
+        {
+          "name": "Avocado",
+          "category": "Produce"
+        },
+        {
+          "name": "Bell pepper, green",
+          "category": "Produce"
+        },
+        {
+          "name": "Black Bean: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Corn",
+          "category": "Middle"
+        },
+        {
+          "name": "Diced Green Chili: Can (2)",
+          "category": "Middle"
+        },
+        {
+          "name": "Diced Tomato: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Red onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Zucchini",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Moroccan Vegetable Stew",
+      "items": [
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Celery",
+          "category": "Produce"
+        },
+        {
+          "name": "Chickpea",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Lemon",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Red pepper",
+          "category": "Produce"
+        },
+        {
+          "name": "Tomato",
+          "category": "Produce"
+        },
+        {
+          "name": "Vegetable Stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Zucchini",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Mushroom And Lentil Cottage Pie",
+      "items": [
+        {
+          "name": "Buttermilk",
+          "category": "Dairy"
+        },
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Celery",
+          "category": "Produce"
+        },
+        {
+          "name": "Gold Potato",
+          "category": "Produce"
+        },
+        {
+          "name": "Lentil",
+          "category": "Middle"
+        },
+        {
+          "name": "Mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Tomato paste",
+          "category": "Middle"
+        },
+        {
+          "name": "Vegetable Stock",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Mushroom Gravy",
+      "items": [
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "mushroom polenta",
+      "items": [
+        {
+          "name": "Asparagus",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Parmesan cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Polenta",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Orange Chicken With Asparagus",
+      "items": [
+        {
+          "name": "Asparagus",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken Thigh",
+          "category": "Meat"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Honey",
+          "category": "Middle"
+        },
+        {
+          "name": "Mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Orange",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Pad Thai",
+      "items": [
+        {
+          "name": "Bean Sprout",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken",
+          "category": "Meat"
+        },
+        {
+          "name": "Dry Roasted Peanut",
+          "category": "Middle"
+        },
+        {
+          "name": "Egg",
+          "category": "Dairy"
+        },
+        {
+          "name": "Fish sauce",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Green onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Ground Chil",
+          "category": "Middle"
+        },
+        {
+          "name": "Lime",
+          "category": "Produce"
+        },
+        {
+          "name": "Medium Rice Noodle",
+          "category": "Middle"
+        },
+        {
+          "name": "Palm Sugar",
+          "category": "Middle"
+        },
+        {
+          "name": "Preserved Radish",
+          "category": "Middle"
+        },
+        {
+          "name": "Tamarind Juice",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Papaya Salad",
+      "items": [
+        {
+          "name": "Dry Roasted Peanut",
+          "category": "Middle"
+        },
+        {
+          "name": "Fish sauce",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Green Papaya",
+          "category": "Produce"
+        },
+        {
+          "name": "Lime",
+          "category": "Produce"
+        },
+        {
+          "name": "Sugar",
+          "category": "Middle"
+        },
+        {
+          "name": "Thai Chil",
+          "category": "Produce"
+        },
+        {
+          "name": "Tomato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Pasta Fagioli",
+      "items": [
+        {
+          "name": "Bean: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Can Tomato Sauce",
+          "category": "Middle"
+        },
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ground beef",
+          "category": "Meat"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Rotini pasta",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Pepper Steak",
+      "items": [
+        {
+          "name": "Beef stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Beef Strip",
+          "category": "Meat"
+        },
+        {
+          "name": "Bell pepper",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Rice",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Philly Calzone",
+      "items": [
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Mozzarella cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Thin Sliced Beef",
+          "category": "Meat"
+        }
+      ]
+    },
+    {
+      "name": "Pizza",
+      "items": [
+        {
+          "name": "Flour",
+          "category": "Middle"
+        },
+        {
+          "name": "Mozzarella cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Pepperoni",
+          "category": "Meat"
+        },
+        {
+          "name": "Whole Tomato Large Can San Marzano) Cento Brand",
+          "category": "Middle"
+        },
+        {
+          "name": "Yeast",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Pizza Roll",
+      "items": [
+        {
+          "name": "Bell pepper",
+          "category": "Produce"
+        },
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Crushed Tomato, Small Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Mozzarella",
+          "category": "Cheese"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Spinach",
+          "category": "Produce"
+        },
+        {
+          "name": "Zucchini",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Polenta",
+      "items": [
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Parmesan cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Polenta",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Pork Stew",
+      "items": [
+        {
+          "name": "Collard Green",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Pork Butt",
+          "category": "Meat"
+        },
+        {
+          "name": "Turnip",
+          "category": "Produce"
+        },
+        {
+          "name": "Yukon Gold Potato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Pot Roast",
+      "items": [
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Fingerling Potato",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Pot Roast",
+          "category": "Meat"
+        },
+        {
+          "name": "Turnip",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Potato Leek Soup",
+      "items": [
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Leek",
+          "category": "Produce"
+        },
+        {
+          "name": "Russet potato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Potato Soup",
+      "items": [
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Cheddar cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Chicken Stock (2)",
+          "category": "Middle"
+        },
+        {
+          "name": "Chive",
+          "category": "Produce"
+        },
+        {
+          "name": "Dill",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Milk",
+          "category": "Dairy"
+        },
+        {
+          "name": "Yellow onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Yukon Gold Potato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "pulled pork",
+      "items": [
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Pork Butt",
+          "category": "Meat"
+        }
+      ]
+    },
+    {
+      "name": "Quinoa Vegetable Stew",
+      "items": [
+        {
+          "name": "Bean: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Cabbage",
+          "category": "Produce"
+        },
+        {
+          "name": "Cauliflower",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Quinoa",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Red Beans And Rice",
+      "items": [
+        {
+          "name": "Anduilli Sausage",
+          "category": "Meat"
+        },
+        {
+          "name": "Bell pepper, green",
+          "category": "Produce"
+        },
+        {
+          "name": "Brown rice",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Kidney Bean: Dry",
+          "category": "Middle"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Red Lentil Soup",
+      "items": [
+        {
+          "name": "Bread",
+          "category": "Bakery"
+        },
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Lemon",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Red Lentil",
+          "category": "Middle"
+        },
+        {
+          "name": "Tomato paste",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Rice A Roni",
+      "items": [
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Cilantro",
+          "category": "Produce"
+        },
+        {
+          "name": "Garbanzo Bean",
+          "category": "Middle"
+        },
+        {
+          "name": "Red Bell Pepper",
+          "category": "Produce"
+        },
+        {
+          "name": "Rotisserie Chicken",
+          "category": "Meat"
+        },
+        {
+          "name": "Spaghetti",
+          "category": "Middle"
+        },
+        {
+          "name": "Yellow onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Rice And Peas",
+      "items": [
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Coconut Milk",
+          "category": "Middle"
+        },
+        {
+          "name": "Fresh Thyme",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Green onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Habanero",
+          "category": "Produce"
+        },
+        {
+          "name": "Kidney Bean: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Rice",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Rice Pilaf",
+      "items": [
+        {
+          "name": "Corn: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Pea",
+          "category": "Frozen Food"
+        },
+        {
+          "name": "Wild Rice",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Ricotta Vegetable Pie",
+      "items": [
+        {
+          "name": "Bacon",
+          "category": "Meat"
+        },
+        {
+          "name": "Bell pepper",
+          "category": "Produce"
+        },
+        {
+          "name": "Egg",
+          "category": "Dairy"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Parmesan cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Pie Crust",
+          "category": "Frozen Food"
+        },
+        {
+          "name": "Ricotta cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Tomato",
+          "category": "Produce"
+        },
+        {
+          "name": "Zucchini",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Roasted Carrots",
+      "items": [
+        {
+          "name": "425 For 15 Min",
+          "category": ""
+        },
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Roasted Cauliflower And Quinoa",
+      "items": [
+        {
+          "name": "Cauliflower",
+          "category": "Produce"
+        },
+        {
+          "name": "Cilantro",
+          "category": "Produce"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Green onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Lime",
+          "category": "Produce"
+        },
+        {
+          "name": "Quinoa",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Roasted Cauliflower Soup",
+      "items": [
+        {
+          "name": "Cauliflower",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Roasted Root Vegetables",
+      "items": [
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Cauliflower",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Turnip",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Ropa Vieja",
+      "items": [
+        {
+          "name": "Beef stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Bell pepper",
+          "category": "Produce"
+        },
+        {
+          "name": "Flank Steak",
+          "category": "Meat"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Salsa Verde Chicken",
+      "items": [
+        {
+          "name": "Cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Chicken breast",
+          "category": "Meat"
+        },
+        {
+          "name": "Cilantro",
+          "category": "Produce"
+        },
+        {
+          "name": "Lime",
+          "category": "Produce"
+        },
+        {
+          "name": "Rice",
+          "category": "Middle"
+        },
+        {
+          "name": "Salsa Verde",
+          "category": ""
+        }
+      ]
+    },
+    {
+      "name": "Saucy Fennel Chicken",
+      "items": [
+        {
+          "name": "Broccoli",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken breast",
+          "category": "Meat"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Fennel",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Rice",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "shepherds pie",
+      "items": [
+        {
+          "name": "Beef stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Ground beef",
+          "category": "Meat"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Pea",
+          "category": "Frozen Food"
+        },
+        {
+          "name": "Russet potato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Sicilian Pizza",
+      "items": [
+        {
+          "name": "Pepperoni",
+          "category": "Meat"
+        },
+        {
+          "name": "Sliced Mozzerela",
+          "category": "Deli"
+        },
+        {
+          "name": "Whole Tomato Large Can San Marzano) Cento Brand",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "sloppy joe",
+      "items": [
+        {
+          "name": "Black Bean: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Bun",
+          "category": "Bakery"
+        },
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ground beef",
+          "category": "Meat"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Tomato sauce",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Speghetti",
+      "items": [
+        {
+          "name": "Basil",
+          "category": "Produce"
+        },
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Crushed Tomato, Large Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ground beef",
+          "category": "Meat"
+        },
+        {
+          "name": "Italian Sausage",
+          "category": "Meat"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Spaghetti",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Spinach Artichoke Calzone",
+      "items": [
+        {
+          "name": "Artichoke",
+          "category": "Middle"
+        },
+        {
+          "name": "Cream cheese",
+          "category": "Dairy"
+        },
+        {
+          "name": "Crushed Tomato, Large Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Flour",
+          "category": "Middle"
+        },
+        {
+          "name": "Mozzarella cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Spinach",
+          "category": "Produce"
+        },
+        {
+          "name": "Yeast",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Steak Ranchero",
+      "items": [
+        {
+          "name": "Anaheim Pepper",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken Stock Small Container",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Thin Sliced Beef",
+          "category": "Meat"
+        },
+        {
+          "name": "Tomato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Stroganoff",
+      "items": [
+        {
+          "name": "Beef stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Delmonico",
+          "category": "Meat"
+        },
+        {
+          "name": "Egg noodle",
+          "category": "Middle"
+        },
+        {
+          "name": "Goat cheese",
+          "category": "Cheese"
+        }
+      ]
+    },
+    {
+      "name": "Swedish Meatballs",
+      "items": [
+        {
+          "name": "Beef stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Egg",
+          "category": "Dairy"
+        },
+        {
+          "name": "Ground beef",
+          "category": "Meat"
+        },
+        {
+          "name": "Ground pork",
+          "category": "Meat"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Pappardelle Pasta",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Taco Speghetti Pie",
+      "items": [
+        {
+          "name": "Crushed Tomato, Large Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Ground beef",
+          "category": "Meat"
+        },
+        {
+          "name": "Mexican cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Spaghetti",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Teriyaki Beef",
+      "items": [
+        {
+          "name": "Beef Strip",
+          "category": "Meat"
+        },
+        {
+          "name": "Bell pepper",
+          "category": "Produce"
+        },
+        {
+          "name": "Broccoli",
+          "category": "Produce"
+        },
+        {
+          "name": "Brown sugar",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Honey",
+          "category": "Middle"
+        },
+        {
+          "name": "Sesame Seed",
+          "category": "Middle"
+        },
+        {
+          "name": "Soy sauce",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Thai Basil Chicken",
+      "items": [
+        {
+          "name": "Chicken breast",
+          "category": "Meat"
+        },
+        {
+          "name": "Holy Basil",
+          "category": "Produce"
+        },
+        {
+          "name": "Oyster sauce",
+          "category": "Middle"
+        },
+        {
+          "name": "Soy sauce",
+          "category": "Middle"
+        },
+        {
+          "name": "Thai Chil",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Thai Peanut Dressing",
+      "items": [
+        {
+          "name": "Cilantro",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Honey",
+          "category": "Middle"
+        },
+        {
+          "name": "Lime",
+          "category": "Produce"
+        },
+        {
+          "name": "Peanut Butter",
+          "category": "Middle"
+        },
+        {
+          "name": "Rice Wine Vinegar",
+          "category": "Middle"
+        },
+        {
+          "name": "Soy sauce",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Tom Yum",
+      "items": [
+        {
+          "name": "Cilantro",
+          "category": "Produce"
+        },
+        {
+          "name": "Galangal",
+          "category": "Produce"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Kaffir Lime Leaf",
+          "category": "Produce"
+        },
+        {
+          "name": "Lemon grass",
+          "category": "Produce"
+        },
+        {
+          "name": "Lime",
+          "category": "Produce"
+        },
+        {
+          "name": "Mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Shrimp",
+          "category": "Meat"
+        },
+        {
+          "name": "Thai Chil",
+          "category": "Produce"
+        },
+        {
+          "name": "Tomato",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Tuna Casserole",
+      "items": [
+        {
+          "name": "Cheddar cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Egg noodle",
+          "category": "Middle"
+        },
+        {
+          "name": "Milk",
+          "category": "Dairy"
+        },
+        {
+          "name": "Tuna",
+          "category": "Middle"
+        }
+      ]
+    },
+    {
+      "name": "Turkey Lettuce Wraps",
+      "items": [
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Ginger",
+          "category": "Produce"
+        },
+        {
+          "name": "Green onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Ground turkey",
+          "category": "Meat"
+        },
+        {
+          "name": "Hoisin",
+          "category": "Middle"
+        },
+        {
+          "name": "Lettuce Cup",
+          "category": "Produce"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Twice Baked Potatoes",
+      "items": [
+        {
+          "name": "Bacon",
+          "category": "Meat"
+        },
+        {
+          "name": "Big Russet potato",
+          "category": "Produce"
+        },
+        {
+          "name": "Cheddar cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Cream cheese",
+          "category": "Dairy"
+        },
+        {
+          "name": "Green onion",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Vegetable Soup",
+      "items": [
+        {
+          "name": "Cabbage",
+          "category": "Produce"
+        },
+        {
+          "name": "Carrot",
+          "category": "Produce"
+        },
+        {
+          "name": "Chicken stock",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Red onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Zucchini",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "veggie fried rice",
+      "items": [
+        {
+          "name": "Broccoli",
+          "category": "Produce"
+        },
+        {
+          "name": "Corn",
+          "category": "Middle"
+        },
+        {
+          "name": "Pea",
+          "category": "Frozen Food"
+        },
+        {
+          "name": "Rice",
+          "category": "Middle"
+        },
+        {
+          "name": "Zucchini",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Veggie Gnocci",
+      "items": [
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Diced Tomato: Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Garlic",
+          "category": "Produce"
+        },
+        {
+          "name": "Gnocci",
+          "category": "Middle"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Parmesan cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Spinach",
+          "category": "Produce"
+        }
+      ]
+    },
+    {
+      "name": "Veggie Lasagna",
+      "items": [
+        {
+          "name": "Crimini mushroom",
+          "category": "Produce"
+        },
+        {
+          "name": "Crushed Tomato, Large Can",
+          "category": "Middle"
+        },
+        {
+          "name": "Lasagna Noodle",
+          "category": "Middle"
+        },
+        {
+          "name": "Mozzarella cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Onion",
+          "category": "Produce"
+        },
+        {
+          "name": "Ricotta cheese",
+          "category": "Cheese"
+        },
+        {
+          "name": "Spinach",
+          "category": "Produce"
+        },
+        {
+          "name": "Zucchini",
+          "category": "Produce"
+        }
+      ]
+    }
+  ]
+}
