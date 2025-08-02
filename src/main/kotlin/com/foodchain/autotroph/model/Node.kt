@@ -46,6 +46,11 @@ data class EntityResponse(
 ) {
     companion object {
         fun from(entity: EntityNode): EntityResponse {
+            // Filter out internal-only data like embeddings from API responses
+            val filteredProperties = entity.properties.filterKeys { key ->
+                !isInternalOnlyProperty(key)
+            }
+
             return EntityResponse(
                 id = entity.id!!,
                 name = entity.name,
@@ -53,9 +58,20 @@ data class EntityResponse(
                 description = entity.description,
                 createdAt = entity.createdAt,
                 updatedAt = entity.updatedAt,
-                properties = entity.properties,
+                properties = filteredProperties,
                 relatedEntitiesCount = entity.relatedEntities.size
             )
+        }
+
+        /**
+         * Determines if a property should be excluded from API responses.
+         * Internal-only properties like embeddings should not be exposed through the API.
+         */
+        private fun isInternalOnlyProperty(propertyName: String): Boolean {
+            return when (propertyName.lowercase()) {
+                "embedding", "embeddings", "vector", "vectors" -> true
+                else -> false
+            }
         }
     }
 }
