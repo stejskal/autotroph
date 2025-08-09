@@ -20,20 +20,24 @@ services:
     networks:
       - autotroph-network
 
-  # Uncomment to run the application with Docker
-  # autotroph-service:
-  #   build: .
-  #   container_name: autotroph-service
-  #   ports:
-  #     - "8080:8080"
-  #   environment:
-  #     - NEO4J_URI=bolt://neo4j:7687
-  #     - NEO4J_USERNAME=neo4j
-  #     - NEO4J_PASSWORD=password
-  #   depends_on:
-  #     - neo4j
-  #   networks:
-  #     - autotroph-network
+  autotroph-service:
+    build: .
+    container_name: autotroph-service
+    ports:
+      - "8080:8080"
+    environment:
+      - NEO4J_URI=bolt://neo4j:7687
+      - NEO4J_USERNAME=neo4j
+      - NEO4J_PASSWORD=password
+      - NEO4J_DATABASE=neo4j
+      - SERVER_PORT=8080
+      - JAVA_OPTS=-Xmx512m -Xms256m
+      # - OPENAI_API_KEY=your_openai_api_key_here
+    depends_on:
+      - neo4j
+    networks:
+      - autotroph-network
+    restart: unless-stopped
 
 volumes:
   neo4j_data:

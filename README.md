@@ -195,9 +195,106 @@ src/
 
 ## Docker Support
 
-Build Docker image:
+### Local Development with Docker
+
+The project includes full Docker support for both local development and production deployment.
+
+#### Option 1: Run Everything with Docker Compose
+
 ```bash
-./gradlew buildImage
+# Start both Neo4j and the application
+docker-compose up -d
+
+# View logs
+docker-compose logs -f autotroph-service
+
+# Stop everything
+docker-compose down
+```
+
+#### Option 2: Build and Run Application Container Only
+
+```bash
+# Build the Docker image
+docker build -t autotroph-service .
+
+# Run with external Neo4j
+docker run -p 8080:8080 \
+  -e NEO4J_URI=bolt://your-neo4j-host:7687 \
+  -e NEO4J_USERNAME=neo4j \
+  -e NEO4J_PASSWORD=your-password \
+  -e OPENAI_API_KEY=your-openai-key \
+  autotroph-service
+```
+
+### Production Deployment
+
+#### Deploy to Render.com
+
+This project is configured for easy deployment to Render.com using the included `render.yaml` configuration.
+
+**Prerequisites:**
+1. Fork this repository to your GitHub account
+2. Create a Render.com account
+3. Set up a Neo4j database (Neo4j Aura recommended)
+4. Obtain an OpenAI API key
+
+**Deployment Steps:**
+
+1. **Set up Neo4j Database:**
+   - Create a free [Neo4j Aura](https://neo4j.com/cloud/aura/) account
+   - Create a new database instance
+   - Note the connection URI, username, and password
+
+2. **Connect Repository to Render:**
+   - Go to [Render.com](https://render.com) and sign in
+   - Click "New" → "Blueprint"
+   - Connect your GitHub account and select your forked repository
+   - Render will automatically detect the `render.yaml` file
+
+3. **Configure Environment Variables:**
+   - In the Render dashboard, go to your service → Environment
+   - Set the following variables:
+     - `NEO4J_URI`: Your Neo4j connection string
+     - `NEO4J_USERNAME`: Your Neo4j username
+     - `NEO4J_PASSWORD`: Your Neo4j password
+     - `OPENAI_API_KEY`: Your OpenAI API key
+
+4. **Deploy:**
+   - Render will automatically build and deploy the application
+   - The application will connect to your external Neo4j database
+   - The application will be available at your Render URL
+
+**Service Configuration:**
+- **Web Service**: Runs the Kotlin/Ktor application
+- **Database**: External Neo4j database (managed separately)
+- **Health Checks**: Automatic health monitoring
+- **Auto-scaling**: Handles traffic spikes automatically
+
+#### Manual Docker Deployment
+
+For other cloud providers, you can use the Docker images directly:
+
+```bash
+# Build production image
+docker build -t autotroph-service:latest .
+
+# Tag for your registry
+docker tag autotroph-service:latest your-registry/autotroph-service:latest
+
+# Push to registry
+docker push your-registry/autotroph-service:latest
+```
+
+**Environment Variables for Production:**
+```bash
+NEO4J_URI=bolt://your-neo4j-host:7687
+NEO4J_USERNAME=neo4j
+NEO4J_PASSWORD=your-secure-password
+NEO4J_DATABASE=neo4j
+OPENAI_API_KEY=your-openai-api-key
+SERVER_PORT=8080
+JAVA_OPTS=-Xmx1g -Xms512m
 ```
 
 ## Contributing

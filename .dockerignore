@@ -1,0 +1,89 @@
+# Build artifacts
+build/
+.gradle/
+gradle-app.setting
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Runtime files
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# Dependency directories
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Docker
+docker-compose.yml
+docker-compose.override.yml
+Dockerfile.dev
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Test files
+src/test/
+test-*.sh
+
+# Data files
+*.json
+*.csv
+*.xml
+
+# Scripts (except essential ones)
+run.sh
+import_groceries.py
+
+# Git
+.git/
+.gitignore
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
